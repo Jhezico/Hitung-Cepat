@@ -3,31 +3,7 @@ body {
   color: white;
 }
 
-.footer-copy {
-  bottom: 0px;
-  width: 100%;
-  padding: 10px;
-  text-align: center;
-}
-
 .all-footer {
-  margin: 0;
-  padding: 0;
-  color: #222;
-  box-sizing: border-box;
-  margin-top: 50px;
-}
-
-.alert {
-  margin-bottom: 50%;
-}
-
-@media screen and (min-width: 728px) {
-  .all-footer {
-    margin-top: 15%;
-  }
-
-  .alert {
-    margin-bottom: 30%;
-  }
+  color: #ccc;
+  margin-top: 20px;
 }
